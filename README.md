@@ -2,7 +2,7 @@
 # COMP90089
 
 ## Machine Learning For Health - Group 23
-
+This repository houses a machine learning project by Group 23, focused on evaluating the severity of Acute pancreatitis in patients using the MIMIC dataset. This work aims to provide predictive insights that could support clinical decision-making and improve patient outcomes.
 ## Table of Repository Contents
 1. [Group Contract](Team-23_Group_Contract.pdf)
 2. [Group Proposal](ML4Health_proposal_Group23.pdf)
