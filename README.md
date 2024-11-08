@@ -43,6 +43,8 @@ In summary, CatBoost and Random Forest (with SMOTE) emerged as top-performing mo
 ## Conclusion & Future works
 This study demonstrates the potential of machine learning models in predicting the severity and mortality of acute pancreatitis (AP) in hospitalized patients. Our findings show that CatBoost effectively predicts severity by capturing complex feature interactions without the need for data balancing techniques like SMOTE, while Random Forest achieves reliable mortality prediction by balancing accuracy and F1 scores with SMOTE. Leveraging a comprehensive range of clinical and biochemical data from the MIMIC-IV dataset, these models offer an early-warning system to support clinicians in prioritizing and personalizing care for AP patients. Future work should validate these models across diverse clinical settings, such as the ICU, and incorporate additional clinical features to enhance robustness and generalizability, ultimately aiming to improve patient outcomes in intensive care.
 
+We have also developed a Graphical User Interface (GUI) using Streamlit as an external application for predicting mortality rates in patients diagnosed with Acute Pancreatitis. This tool, built with simple features, can be adapted to healthcare systems to assist in delivering personalized treatments, predicting disease severity, and enhancing overall patient care. The source code can be found under [Miscellaneous](misc) folder.
+
 
 **Thanks**
 
