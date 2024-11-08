@@ -15,6 +15,9 @@
 9. [Miscellaneous](misc)
 10. [Project report](ML4Health_report_group23.pdf)
 
+## Description
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/a15957c5-981a-4f74-a698-250975ac8ac1)
+
 ## Project Details
 
 ### Objective
