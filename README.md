@@ -45,7 +45,7 @@ This study demonstrates the potential of machine learning models in predicting t
 
 We have also developed a Graphical User Interface (GUI) using Streamlit as an external application for predicting mortality rates in patients diagnosed with Acute Pancreatitis. This tool, built with simple features, can be adapted to healthcare systems to assist in delivering personalized treatments, predicting disease severity, and enhancing overall patient care. The source code can be found under [Miscellaneous](misc) folder.
 
-![Mortality Prediction GUI_result_1](misc/GUI_result_1.png)
+![Mortality Prediction GUI_result_1](misc/GUI_result_2.png)
 
 
 **Thanks**
